@@ -1,0 +1,9 @@
+c:\users\nicol\onedrive\documents\visual studio 2015\Projects\BoxedAppPackerUnpacker\BoxedAppPackerUnpacker\bin\Debug\BoxedAppPackerUnpacker.exe.config
+c:\users\nicol\onedrive\documents\visual studio 2015\Projects\BoxedAppPackerUnpacker\BoxedAppPackerUnpacker\bin\Debug\BoxedAppPackerUnpacker.exe
+c:\users\nicol\onedrive\documents\visual studio 2015\Projects\BoxedAppPackerUnpacker\BoxedAppPackerUnpacker\bin\Debug\BoxedAppPackerUnpacker.pdb
+c:\users\nicol\onedrive\documents\visual studio 2015\Projects\BoxedAppPackerUnpacker\BoxedAppPackerUnpacker\obj\Debug\BoxedAppPackerUnpacker.csprojResolveAssemblyReference.cache
+c:\users\nicol\onedrive\documents\visual studio 2015\Projects\BoxedAppPackerUnpacker\BoxedAppPackerUnpacker\obj\Debug\BoxedAppPackerUnpacker.Form1.resources
+c:\users\nicol\onedrive\documents\visual studio 2015\Projects\BoxedAppPackerUnpacker\BoxedAppPackerUnpacker\obj\Debug\BoxedAppPackerUnpacker.Properties.Resources.resources
+c:\users\nicol\onedrive\documents\visual studio 2015\Projects\BoxedAppPackerUnpacker\BoxedAppPackerUnpacker\obj\Debug\BoxedAppPackerUnpacker.csproj.GenerateResource.Cache
+c:\users\nicol\onedrive\documents\visual studio 2015\Projects\BoxedAppPackerUnpacker\BoxedAppPackerUnpacker\obj\Debug\BoxedAppPackerUnpacker.exe
+c:\users\nicol\onedrive\documents\visual studio 2015\Projects\BoxedAppPackerUnpacker\BoxedAppPackerUnpacker\obj\Debug\BoxedAppPackerUnpacker.pdb
